@@ -253,6 +253,11 @@ uic_number;coachgroup;given_name;special_features;comments
 ;ICE9237;Spree;;
 ;ICE9457;Bundesrepublik Deutschland;;
 ;ICE9481;Rheinland-Pfalz;;
+50802675097;;;DB Gebrauchtzug (Touristik);
+50802675143;;;DB Gebrauchtzug (Touristik);
+50803675080;;;DB Gebrauchtzug (Touristik);
+50808675063;;;DB Gebrauchtzug (Touristik);
+91806111074;;Hilde;DB Gebrauchtzug (Touristik);
 93805403002;ICE0302;Hansestadt Lübeck;;
 93805403022;ICE0310;Wolfsburg;;
 93854010102;ICK4102;Naturpark Schönbuch;;
@@ -264,6 +269,7 @@ uic_number;coachgroup;given_name;special_features;comments
 94800423094;T0423094;;Karriere-S-Bahn München (orange);
 94800423214;T0423214;;Karriere-S-Bahn München (violett);
 94800423286;T0423286;;Zug der Vielfalt;
+94800423442;T0423442;;Eigene Gleise für die S6 S-Bahn Rhein-Main;
 94800425069;T0425069;;Werbung DB Karriere;
 94800425131;T0425131;Mettlach;;
 94800425132;T0425132;Homburg (Saar);;
@@ -296,6 +302,7 @@ uic_number;coachgroup;given_name;special_features;comments
 94800425261;T0425261;;20 Jahre S-Bahn Rhein-Neckar;
 94800430077;T0430077;;Karriere-S-Bahn Stuttgart;
 94800430087;T0430087;;Karriere-S-Bahn Stuttgart;
+94800430166;T0430166;;Kinder-Malwettbewerb S-Bahn Rhein-Main;
 95800650501;;Wartburgstadt Eisenach;;
 95800650502;;Theaterstadt Meiningen, Dampflokwelt;;
 95800650503;;Heilklimatischer Kurort Friedrichroda / Marienglashöhle;;
