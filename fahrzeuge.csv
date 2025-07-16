@@ -95,6 +95,7 @@ uic_number;coachgroup;given_name;special_features;comments
 ;ICE0243;Bautzen/Budyšin;;
 ;ICE0244;Koblenz;;
 ;ICE0301;Freiburg im Breisgau;;
+93805403002;ICE0302;Hansestadt Lübeck;;
 ;ICE0303;Dortmund;;
 ;ICE0304;München;Regenbogen-ICE;
 ;ICE0305;Baden-Baden;;
@@ -102,6 +103,7 @@ uic_number;coachgroup;given_name;special_features;comments
 ;ICE0307;Oberhausen;;
 ;ICE0308;Murnau am Staffelsee;;
 ;ICE0309;Aalen;;
+93805403022;ICE0310;Wolfsburg;;
 ;ICE0311;Wiesbaden;;
 ;ICE0312;Montabaur;;
 ;ICE0313;Treuchtlingen;;
@@ -259,8 +261,9 @@ uic_number;coachgroup;given_name;special_features;comments
 50803675080;;;DB Gebrauchtzug (Touristik);
 50808675063;;;DB Gebrauchtzug (Touristik);
 91806111074;;Hilde;DB Gebrauchtzug (Touristik);
-93805403002;ICE0302;Hansestadt Lübeck;;
-93805403022;ICE0310;Wolfsburg;;
+91806101013;;IC-Lackierung;
+91806101066;;Einziganders;
+91806101110;;50 Jahre Intercity;
 93854010102;ICK4102;Naturpark Schönbuch;;
 93854010103;ICK4103;Allgäu;;
 93854010108;ICK4108;Hegau;;
