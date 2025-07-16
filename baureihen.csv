@@ -71,6 +71,7 @@ uic_regex;coachgroup;short_name;name;additional_info;colloquial_names;comments
 948004900.*;T04900.*;BR490;Baureihe 490;;;
 948004901.*;T04901.*;BR490;Baureihe 490;Zweisystem (Stromschiene/Oberleitung);;
 94800492.*;T0492.*;Tram-Train;Citylink Tram-Train;;;
+94820023.*;T0023.*;KISS;Stadler KISS;;;
 95800605.*;T0605.*;ICE TD;ICE TD;;;
 95800612.*;T0612.*;BR612;Bombardier RegioSwinger;;;
 95800615.*;T0615.*;Itino;Bombardier Itino;;;
