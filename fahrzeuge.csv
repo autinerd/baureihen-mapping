@@ -261,9 +261,13 @@ uic_number;coachgroup;given_name;special_features;comments
 50803675080;;;DB Gebrauchtzug (Touristik);
 50808675063;;;DB Gebrauchtzug (Touristik);
 91806111074;;Hilde;DB Gebrauchtzug (Touristik);
-91806101013;;IC-Lackierung;
-91806101066;;Einziganders;
-91806101110;;50 Jahre Intercity;
+91806101001;;;Rheingold;
+91806101013;;;IC-Lackierung;
+91806101057;;;European Year of Rail 2021;
+91806101066;;;Einziganders;
+91806101110;;;50 Jahre Intercity;
+91806143009;;Isabel;;
+91806143326;;Torsten;;
 93854010102;ICK4102;Naturpark Schönbuch;;
 93854010103;ICK4103;Allgäu;;
 93854010108;ICK4108;Hegau;;
