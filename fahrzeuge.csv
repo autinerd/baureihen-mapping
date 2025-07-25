@@ -266,6 +266,7 @@ uic_number;coachgroup;given_name;special_features;comments
 91806101057;;;European Year of Rail 2021;
 91806101066;;;Einziganders;
 91806101110;;;50 Jahre Intercity;
+91806101127;;;100 Jahre Baureihe 101;
 91806143009;;Isabel;;
 91806143326;;Torsten;;
 93854010102;ICK4102;Naturpark Schönbuch;;
@@ -274,6 +275,10 @@ uic_number;coachgroup;given_name;special_features;comments
 93854010111;ICK4111;Gäu;;
 93854010114;ICK4114;Dresden Elbland;;
 93854010117;ICK4117;Mecklenburgische Ostseeküste;;
+94800423035;T0423035;;Kölner Karneval;
+94800423038;T0423038;;Kölner Karneval;
+94800423051;T0423051;;Kölner Karneval;
+94800423057;T0423057;;Kölner Karneval;
 94800423094;T0423094;;Karriere-S-Bahn München (orange);
 94800423214;T0423214;;Karriere-S-Bahn München (violett);
 94800423286;T0423286;;Zug der Vielfalt;
