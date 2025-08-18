@@ -270,6 +270,13 @@ uic_number;coachgroup;given_name;special_features;comments
 91806101127;;;100 Jahre Baureihe 101;
 91806143009;;Isabel;;
 91806143326;;Torsten;;
+92801218341;;;IC-Lackierung;
+92801218406;;;orientrot;
+92801218443;;Donna;DB Gebrauchtzug (Touristik);
+92801218446;;;blau/beige;
+92801218460;;Conny;blau/beige;
+92801218497;;;Sonderlackierung DB Fahrzeuginstandhaltung;
+92801218838;;;purpurrot;
 93854010102;ICK4102;Naturpark Schönbuch;;
 93854010103;ICK4103;Allgäu;;
 93854010108;ICK4108;Hegau;;
@@ -281,6 +288,7 @@ uic_number;coachgroup;given_name;special_features;comments
 94800423051;T0423051;;Kölner Karneval;
 94800423057;T0423057;;Kölner Karneval;
 94800423094;T0423094;;Karriere-S-Bahn München (orange);
+94800423196;T0423196;;go.Rheinland-Design;
 94800423214;T0423214;;Karriere-S-Bahn München (violett);
 94800423286;T0423286;;Zug der Vielfalt;
 94800423380;T0423380;Bad Vilbel;RMV4ever - 30 Jahre RMV;
@@ -332,6 +340,10 @@ uic_number;coachgroup;given_name;special_features;comments
 94800442206;T0442206;Neef;;
 94800442207;T0442207;Kobern Gondorf;;
 94800442208;T0442208;Winningen;;
+95800612156;D0612156;Landkreis Amberg-Sulzbach;;
+95800612157;D0612157;Landkreis Hof;;
+95800612158;D0612158;Stadt Hof;;
+95800641026;D0641026;Markt Stammbach;;jetzt in Erfurt im Einsatz - vielleicht wird der Taufname daher in Zukunft entfernt
 95800648355;;Fehmarn;;
 95800650131;;Lily;;
 95800650132;;Frida;;
@@ -368,6 +380,14 @@ uic_number;coachgroup;given_name;special_features;comments
 95800650594;;Loßburg;;
 95800650039;;Elzach;;
 95800650601;;Vogtsburg;;
+95800650705;;Neuenmarkt;;
+95800650712;;Helmbrechts;;
+95800650715;;Naila;;
+95800650716;;Münchberg;;
+95800650720;;Stadt Coburg;;
+95800650728;;Bad Steben;;
+95800650733;;Ebermannstadt;;
+95800650734;;Forchheim;;
 94800563001;T0563001;Offenburg;;
 94800563002;T0563002;;Tesla GigaTrain;
 94800563003;T0563003;Ottenhöfen;;
