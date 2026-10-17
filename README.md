@@ -1,3 +1,7 @@
+> [!WARNING]
+> Dieses Repo ist jetzt bei Codeberg https://codeberg.org/autinerd/baureihen-mapping
+
+
 # Mapping von Baureihen und Fahrzeugnummern auf die Fahrzeugnamen
 
 Diese Datei enthält eine Zuordnung von Baureihen und Fahrzeugnummern zu den entsprechenden Fahrzeugnamen.
